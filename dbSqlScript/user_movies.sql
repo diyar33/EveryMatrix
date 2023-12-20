@@ -1,0 +1,17 @@
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (1, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 1, 5);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (2, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 1, 6);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (3, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 1, 3);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (4, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 1, 13);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (5, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 1, 14);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (6, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 2, 3);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (7, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 2, 14);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (8, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 2, 10);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (9, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 2, 9);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (10, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 3, 1);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (11, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 3, 5);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (12, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 3, 7);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (13, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 3, 8);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (14, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 3, 12);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (15, '2023-12-20 08:34:33.000928', '2023-12-20 08:34:33.000928', null, 3, 11);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (16, '2023-12-20 08:34:55.631000', '2023-12-20 08:34:55.631000', null, 3, 2);
+INSERT INTO public.user_movies (id, created_at, updated_at, deleted_at, "userId", "movieId") VALUES (17, '2023-12-20 08:35:04.704138', '2023-12-20 08:35:04.704138', null, 3, 4);
